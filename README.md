@@ -9,7 +9,7 @@
 ## Overview
 
 A smart audio player built on STM32F407. Reads WAV files from a USB flash drive and plays them via I2S at 44kHz. Three hardware buttons control playback in real time using EXTI interrupts.
-
+![Hardware demo](demo.jpg)
 ## Hardware
 | Component | Details |
 |---|---|
